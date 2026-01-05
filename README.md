@@ -1,6 +1,6 @@
 # 🎬 ClipStack
 
-![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen) ![License](https://img.shields.io/badge/license-ISC-blue)
+![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen) 
 
 > ClipStack is a video ranking studio application that enables users to upload, rank, customize, and export compiled video montages with dynamic overlays.
 
